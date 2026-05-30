@@ -80,4 +80,4 @@ deep models, `training_history.csv`). Aggregate analyses live at the top of
 
 ## License
 
-Apache-2.0. See `LICENSE`.
+Apache-2.0. See [LICENSE](https://github.com/imsg8/nvidia-outlier-paradox/blob/main/LICENSE).
