@@ -1,0 +1,4 @@
+series,adf_statistic,adf_pvalue,adf_conclusion,kpss_statistic,kpss_pvalue,kpss_conclusion
+Raw Close Price,3.6101330450704237,1.0,Non-stationary,5.170295535672236,0.01,Non-stationary
+Log Returns,-17.108475466383037,7.393679971618114e-30,Stationary,0.10349233938969839,0.1,Stationary
+Differenced Prices,-5.974067653533961,1.9058851790525938e-07,Stationary,1.4712208685990962,0.01,Non-stationary
